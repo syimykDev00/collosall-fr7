@@ -109,12 +109,15 @@ button {
     align-items: center;
 }
 
+.hero-buttons button {
+    margin: 0 10px;
+}
+
 .btn-one {
     color: #FFF;
     border-radius: 3px;
     background: #6016FC;
     padding: 15px 55px;
-    margin-right: 25px;
     font-size: 16px;
     font-weight: 600;
 }
