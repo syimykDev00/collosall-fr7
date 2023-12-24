@@ -22,6 +22,9 @@
 }
 
 @media (max-width: 768px) {
+    .burger-menu {
+        display: block;
+    }
     .header-navbar a {
         display: none;
     }
